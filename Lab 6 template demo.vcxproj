@@ -153,6 +153,9 @@
   <ItemGroup>
     <ClInclude Include="Stack.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Users\GIGABYTE\Downloads\stack.gif" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
